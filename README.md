@@ -42,5 +42,5 @@ The scores by school size did not change. The values before and after entering t
 The scores by school type did not change at all. The values before and after entering the 9th grade math and reading scores to NaN didn't change.
 
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
 The four major changes in updating the scores for the ninth grade at Thomas High School are that the Average Math Score decreased, The % Passing Math decreased, the % Passing Reading decreased, and the % Overall Passing decreased.
