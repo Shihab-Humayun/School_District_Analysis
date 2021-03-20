@@ -31,12 +31,15 @@ The math score in the 9th grade was 83.6 and reading score was 83.7 before chang
 
 *   Scores by school spending
 
+The scores by school spending did not change at all. The values before and after entering the 9th grade math and reading scores to NaN is the same.
 
 *   Scores by school size
 
+The scores by school size did not change. The values before and after entering the 9th grade math and reading scores to NaN did not change.
 
 *   Scores by school type
 
+The scores by school type did not change at all. The values before and after entering the 9th grade math and reading scores to NaN didn't change.
 
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
